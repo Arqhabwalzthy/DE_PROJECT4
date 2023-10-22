@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "arqhab-project-321111",
+  "private_key_id": "3d788c5ce3a05d832774d6e058b447832ca52eab",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCzoGrpYYniqRI1\nH667lEFGOb79wJPFgrkVaZbXtof7W7CLzJyyLlFuqJ4SsjzK1D1xEJj4uAwjGFeJ\nUb/+qk8hOV305B35exD9SdoSbqViii7Xqs2QLoMWwMxk88aiYj+pTROzSj1tdiKx\n/fJxILQCbomZHUk6AObF2+CkaaQrEDKTDv2NmcSpvT2N+tq54zHFVUPpd99E156g\nmk7R2nv/toDQCyyMKx3ACTjq9/4RxNl0QMbn1fOQ9ddiLT+kPM/x55b+AgcEgsmd\nIzywEnWGBXYCwgqqCgqSbUMqsX1o8CU+RYf6xcrbOYjfV8HZzp2vFt+yxlAYwBGA\nv0zxHzUtAgMBAAECggEAEPYyckREHXOipQKPYOYgfc2hI9wF+C4eZQ+57zeswocH\ndkQFfevSw7THbHOJOwvsm1saXs4eU0gOqAhgrV8OptAAd8n8rJy633gUUA5Drrjm\nsHXQAG/r7/+XrWa5mIbXhRiiphj6EPaJUy5sMNOKO/qNIri5u/Du2bsoDM5u8qPl\nmo/8QJsucY2hzSRbbaFQ0vmhrXka1HnvtJ2L4sl162QxBa63DAXixWMXKoUR4cxJ\nzie7pMgJccAFFxaAPRMlsxVf79CaxTUWbRZWdHgfarOTxoK5LNYl6Arzc8VOFKRw\n+6GbIwLo+xzVVBXkjUE3LZ+z4ubaYdWa4bn/05EtsQKBgQDy3w3mydiLRH13hZG0\nPGvJhEAhpyFwrRcy6vddLzzf43fXgrGbJw4KW7f62W8TLUCBJEAm3/MXw9L6IdPZ\nWEKtU5t9bkwZknUTdNw+TPzzlfyAerYfRECS3o6+SKfyIIERgh/CPjColdpPQU3D\nVQqwVPufC11Homs9CN/sopGVFQKBgQC9VijPF6urfy7hkmzkI0v+ke+wuRHvsiyW\niv9RA4uGG/NbL4j8XD49biCH0kZcrZ2oRwDm/tG+dc/TlnNyhIKIH6DW4/k/tjDj\nglKN1dU/oi61Hoo545y4FSEJmZfKc95O0yTZ6z4eXGE2jz29HHfLOxYKNejtoMD5\npL1z+WDVuQKBgQCfwKCAQhyx3qc4yx8AEw5DSz5z5F9WokQ0NeHn5X6BNjpKA6mX\niKTvo0ztL8CkOIvJZnLcH0rjQuevqDiVKj0RjYEljDt6Rp/D4IZOZI2uG+YvDIhn\nIJnpAYObHmd6GG9NeO4y8n1HJuqmXyorZfDV89Be2TbOO8OWLhQ8ruJb0QKBgQCk\nUhiM0zBMYM8hOmGDBhc4UxPBPn2QmAQWi3/Wocr/k1Z7dx/eVXg2/FMDTb1/Rbak\niyr/T3xdXgYGznZXlyVqWnjOx4BUiRyY90wKiODQn0MGMgEpCJ/FK6FGoaSZMkJo\nCtvavU1mMCq2nU6pyAE3won4Rp1nTrLsdstt0ar3EQKBgHrfPd328AhXvht63cQH\nPl8BM67zRbdIcqMTY8QSqx6/+pAge+PggTkdIzQXBdOmSpVJrQHiDC/27Je7l2E+\npOudcZgvhPrlzYeqYjz4RX1HunKBo1fwTAyNZ22ZMiU12P4w+/GA/9urPohZQ5u7\n9fLkOZ6sfSawTmWFYL9LDaf5\n-----END PRIVATE KEY-----\n",
+  "client_email": "dbt-bigquery-arqhab@arqhab-project-321111.iam.gserviceaccount.com",
+  "client_id": "114749462368615004213",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dbt-bigquery-arqhab%40arqhab-project-321111.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
